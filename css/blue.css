@@ -158,7 +158,7 @@ a:hover {
 }
 
 h1  {
-	width:250px;
+	width:300px;
 	font-size:42px;
 	color:#1b4491;
 	margin-bottom:3px;
@@ -466,7 +466,7 @@ img.portrait {
 
 .tipsy { padding: 5px; font-size: 10px; background-repeat: no-repeat;  background-image: url(../images/tipsy.gif); }
 .tipsy-inner { padding: 5px 8px 4px 8px; background-color: #080626; color: #fff; max-width: 200px; text-align: center; }
-.tipsy-inner { -moz-border-radius:3px; -webkit-border-radius:3px; }
+/* .tipsy-inner { -moz-border-radius:3px; -webkit-border-radius:3px; } */
 .tipsy-north { background-position: top center; }
 .tipsy-south { background-position: bottom center; margin-bottom:20px; }
 .tipsy-east { background-position: right center; }
@@ -488,7 +488,7 @@ img.portrait {
 
 #cboxOverlay{background:#666;}
 
-#colorBox{}
+/* #colorBox{} */
 #cboxTopLeft{width:25px; height:25px; background:url(../images/border1.png) 0 0 no-repeat;}
 #cboxTopCenter{height:25px; background:url(../images/border1.png) 0 -50px repeat-x;}
 #cboxTopRight{width:25px; height:25px; background:url(../images/border1.png) -25px 0 no-repeat;}
@@ -521,8 +521,8 @@ img.portrait {
 	margin-top: -40px;
 	right: 0%;
 	margin-right:10px;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
+	/* -moz-border-radius: 3px;
+	-webkit-border-radius: 3px; */
 	width: 77px;
 	line-height: 20px;
 	height: 20px;
